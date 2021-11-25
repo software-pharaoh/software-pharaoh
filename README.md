@@ -27,8 +27,8 @@ our vision
 
 - speech to text (live transcribe)
 - text to speech
-- OCR
-- POS : paid cloud, free local storage
+- [OCR](https://github.com/software-pharaoh/ocr)
+- [POS](https://github.com/software-pharaoh/pos) : paid cloud, free local storage
 - bible
 - agpeya
 - image optimizer / compressor
