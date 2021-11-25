@@ -1,7 +1,7 @@
 # software-pharaoh
 our vision
 
-> my software tools stand on the shoulders of the giants — Abanoub Hanna
+> my software tools stand on the shoulders of the giants — [Abanoub Hanna](https://github.com/abanoubhannaazer)
 
 ## Vision
 
