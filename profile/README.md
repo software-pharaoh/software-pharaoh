@@ -1,7 +1,7 @@
 # software pharaoh
 our vision
 
-> my software tools stand on the shoulders of the giants — [Abanoub Hanna](https://github.com/abanoubhannaazer)
+> my software tools stand on the shoulders of the giants — [Abanoub Hanna](https://github.com/abanoubha)
 
 ## Vision
 
@@ -27,8 +27,8 @@ our vision
 
 - speech to text (live transcribe)
 - text to speech
-- [OCR](https://github.com/software-pharaoh/ocr)
-- [POS](https://github.com/software-pharaoh/pos) : paid cloud, free local storage
+- OCR
+- POS : paid cloud, free local storage
 - bible
 - agpeya
 - image optimizer / compressor
