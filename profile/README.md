@@ -30,7 +30,7 @@ our vision
 - OCR
 - POS : paid cloud, free local storage
 - bible
-- agpeya
+- [agpeya](https://github.com/abanoubha/agpeya)
 - image optimizer / compressor
 - send to desktop (shortcut) : for Ubuntu
 - integrate apps inside menu (from flatpak/snap/apt/..)
