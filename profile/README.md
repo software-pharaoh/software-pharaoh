@@ -30,7 +30,7 @@ our vision
 - text to speech
 - OCR
 - POS : paid cloud, free local storage
-- bible
+- ~bible~ use [this great app instead](https://play.google.com/store/apps/details?id=net.alketabalmokadas.app).
 - image optimizer / compressor
 - send to desktop (shortcut) : for Ubuntu
 - integrate apps inside menu (from flatpak/snap/apt/..)
