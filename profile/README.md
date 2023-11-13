@@ -26,7 +26,7 @@ our vision
 
 ## TODOs
 
-- speech to text (live transcribe)
+- ~speech to text (live transcribe)~ use [Live Transcribe from Google](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe).
 - text to speech
 - OCR
 - POS : paid cloud, free local storage
