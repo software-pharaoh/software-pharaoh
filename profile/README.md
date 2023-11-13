@@ -22,6 +22,7 @@ our vision
 - [IMG2TXT Hindi OCR App](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.hindi)
 - [IMG2TXT : Persian OCR App](https://play.google.com/store/apps/details?id=com.softwarepharaoh.img2txt.persian)
 - [كتب البابا شنودة الثالث](https://play.google.com/store/apps/details?id=com.softwarepharaoh.popebooks)
+- [agpeya](https://github.com/abanoubha/agpeya) ([install from Google Play](https://play.google.com/store/apps/details?id=com.softwarepharaoh.agpeya))
 
 ## TODOs
 
@@ -30,7 +31,6 @@ our vision
 - OCR
 - POS : paid cloud, free local storage
 - bible
-- [agpeya](https://github.com/abanoubha/agpeya)
 - image optimizer / compressor
 - send to desktop (shortcut) : for Ubuntu
 - integrate apps inside menu (from flatpak/snap/apt/..)
